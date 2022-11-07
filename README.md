@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# This is an e-commerce
 
 This project was bootstrapped with [live Frontend Demo: https://restro-cafe-frontend.queens-essennce.repl.co/ ]
 
