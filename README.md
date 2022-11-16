@@ -1,4 +1,4 @@
-# This is an e-commerce
+# This is an e-commerce app that allows customers to engage in a digital menu when ordering at a restaurant.
 
 This project was bootstrapped with [live Frontend Demo: https://restro-cafe-frontend.queens-essennce.repl.co/ ]
 
